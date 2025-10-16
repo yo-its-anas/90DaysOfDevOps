@@ -1,0 +1,6 @@
+REPOSITORY                  TAG                 IMAGE ID       CREATED              SIZE
+multi-stage                 latest              0dbfff7adbcb   About a minute ago   62.2MB
+<none>                      <none>              94b7392de8bc   About a minute ago   58.4MB
+flask-app                   latest              c61fa65058bc   4 minutes ago        58.4MB
+python                      3.13.9-alpine3.22   b8e978e6953b   43 hours ago         44.9MB
+gcr.io/distroless/python3   latest              5383ad8c237d   N/A                  53MB
